@@ -1,12 +1,12 @@
 **简介**
 
-MonoBehaviourToILRuntime是针对Unity3D项目的热更方案。
+MonoBehaviourToILRuntime是针对Unity3D项目的热更方案，代码简洁，接入方便。
 
 此框架的作用是通过最小的修改让以传统MonoBehaviour写法的老项目快速获得完善的热更新能力。
 
 当然新项目也可以用，可以继续使用熟悉的MonoBehaviour写法，却具备热更能力。
 
-代码简洁，接入方便。
+核心原理: 运行时将Mono脚本自动替换为热更脚本）
 
 **方案结构**
 
