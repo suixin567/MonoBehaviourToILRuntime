@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03142c330ced64e0ab46cddcd0484ab7, type: 3}
+  m_Name: Rules
+  m_EditorClassIdentifier: 
+  version: 9
+  nameByHash: 1
+  buildBundleOptions: 256
+  scenesInBuild:
+  - {fileID: 102900000, guid: 9fc0d4010bbf28b4594072e72b8655ab, type: 3}
+  assets:
+  - path: Assets/Res/UI/hotfixPanel.prefab
+    bundle: 0282587b911ccc4b30094d33cca865f4.bundle
+    patch: 0
+    groupBy: 3
+    group: 
+  - path: Assets/Res/UI/hotfix2Panel.prefab
+    bundle: 0282587b911ccc4b30094d33cca865f4.bundle
+    patch: 0
+    groupBy: 3
+    group: 
+  - path: Assets/Res/Code/Hotfix.pdb.bytes
+    bundle: 647fd131331f17390d20e9e0c3fb0c2f.bundle
+    patch: 0
+    groupBy: 3
+    group: 
+  - path: Assets/Res/Code/Hotfix.dll.bytes
+    bundle: 647fd131331f17390d20e9e0c3fb0c2f.bundle
+    patch: 0
+    groupBy: 3
+    group: 
+  - path: Assets/Res/Scenes/LoginScene.unity
+    bundle: b1da4339b903c769f6923f995e119060.bundle
+    patch: 0
+    groupBy: 3
+    group: 
+  - path: Assets/Res/Images/r.png
+    bundle: b61c686eb15672fdd4674b51d8798a49.bundle
+    patch: 0
+    groupBy: 3
+    group: 
+  - path: Assets/Res/Images/0/sp.jpg
+    bundle: 19edfa08ada81205cbb29346354bde86.bundle
+    patch: 0
+    groupBy: 3
+    group: 
+  - path: Assets/Res/Images/0/sp2.jpg
+    bundle: 19edfa08ada81205cbb29346354bde86.bundle
+    patch: 0
+    groupBy: 3
+    group: 
+  bundles:
+  - assetBundleName: 0282587b911ccc4b30094d33cca865f4.bundle
+    assetNames:
+    - Assets/Res/UI/hotfixPanel.prefab
+    - Assets/Res/UI/hotfix2Panel.prefab
+  - assetBundleName: 647fd131331f17390d20e9e0c3fb0c2f.bundle
+    assetNames:
+    - Assets/Res/Code/Hotfix.pdb.bytes
+    - Assets/Res/Code/Hotfix.dll.bytes
+  - assetBundleName: b1da4339b903c769f6923f995e119060.bundle
+    assetNames:
+    - Assets/Res/Scenes/LoginScene.unity
+  - assetBundleName: b61c686eb15672fdd4674b51d8798a49.bundle
+    assetNames:
+    - Assets/Res/Images/r.png
+  - assetBundleName: 19edfa08ada81205cbb29346354bde86.bundle
+    assetNames:
+    - Assets/Res/Images/0/sp.jpg
+    - Assets/Res/Images/0/sp2.jpg

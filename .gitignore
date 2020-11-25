@@ -1,0 +1,10 @@
+/Logs
+/Library
+/obj
+/Temp
+/DLC
+/.vs
+/Assets/StreamingAssets
+/Assets/Model/ILBinding/*
+!/Assets/Model/ILBinding/CLRBindings.cs
+/Assets/ClassTypes*

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7882bd278763c45f49cef7deeae496e5, type: 3}
+  m_Name: Manifest
+  m_EditorClassIdentifier: 
+  activeVariants: []
+  dirs:
+  - Assets/Res/UI
+  - Assets/Res/Code
+  - Assets/Res/Scenes
+  - Assets/Res/Images
+  - Assets/Res/Images/0
+  assets:
+  - name: hotfixPanel.prefab
+    bundle: 0
+    dir: 0
+  - name: hotfix2Panel.prefab
+    bundle: 0
+    dir: 0
+  - name: Hotfix.pdb.bytes
+    bundle: 2
+    dir: 1
+  - name: Hotfix.dll.bytes
+    bundle: 2
+    dir: 1
+  - name: LoginScene.unity
+    bundle: 3
+    dir: 2
+  - name: r.png
+    bundle: 4
+    dir: 3
+  - name: sp.jpg
+    bundle: 1
+    dir: 4
+  - name: sp2.jpg
+    bundle: 1
+    dir: 4
+  bundles:
+  - name: 0282587b911ccc4b30094d33cca865f4.bundle
+    id: 0
+    children: 
+    len: 11339
+    hash: 27707d3873cf8832a5575d7712507872
+    crc: a82273b1
+  - name: 19edfa08ada81205cbb29346354bde86.bundle
+    id: 1
+    children: 
+    len: 235071
+    hash: f7e3da4cda6b79886eb30a0baf8174ba
+    crc: 335f4801
+  - name: 647fd131331f17390d20e9e0c3fb0c2f.bundle
+    id: 2
+    children: 
+    len: 16202
+    hash: a4fe942685db140ed177bafae923ded6
+    crc: b392cdd7
+  - name: b1da4339b903c769f6923f995e119060.bundle
+    id: 3
+    children: 
+    len: 8149
+    hash: f1d301a9cc7316152066c0ef49a26c75
+    crc: 958c7cca
+  - name: b61c686eb15672fdd4674b51d8798a49.bundle
+    id: 4
+    children: 
+    len: 448576
+    hash: 7ff7924f3f15a13d203b76554791bd0a
+    crc: 000e9017

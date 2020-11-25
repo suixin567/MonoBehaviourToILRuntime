@@ -1,0 +1,17 @@
+{
+    "name": "Unity.Model",
+    "references": [
+        "XAsset.Runtime",
+        "Unity.ThirdParty",
+        "ILRuntime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
