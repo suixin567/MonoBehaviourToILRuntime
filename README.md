@@ -1,0 +1,2 @@
+# MonoBehaviourToILRuntime
+对MonoBehaviour无热更能力老项目快速支持ILRuntime热更能力。
