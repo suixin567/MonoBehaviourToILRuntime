@@ -21,17 +21,17 @@ MonoBehaviour:
   - path: Assets/Res/Code/Hotfix.dll.bytes
     bundle: 
     patch: 0
-    groupBy: 2
+    groupBy: 3
     group: 
   - path: Assets/Res/Code/Hotfix.pdb.bytes
     bundle: 
     patch: 0
-    groupBy: 2
+    groupBy: 3
     group: 
-  - path: Assets/Res/Scenes/LoginScene.unity
+  - path: Assets/Res/Scenes/FirstScene.unity
     bundle: 
     patch: 0
-    groupBy: 2
+    groupBy: 3
     group: 
   - path: Assets/Res/UI/hotfixPanel.prefab
     bundle: 

@@ -1,9 +1,9 @@
 ﻿using libx;
 using UnityEngine;
 
-public class LoginScene : MonoBehaviour
+public class FristScene : MonoBehaviour
 {
-    public static LoginScene instance;
+    public static FristScene instance;
 
     private void Awake()
     {

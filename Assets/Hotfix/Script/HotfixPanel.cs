@@ -8,7 +8,7 @@ public class HotfixPanel : MonoBehaviour
         //下面这句话在每个脚本的Awake()中都要最先写上
         if (this.Unity2Hotfix()) return;
         //你的代码
-        transform.SetParent(LoginScene.instance.transform);
+        transform.SetParent(FristScene.instance.transform);
         transform.localPosition = Vector2.zero;
         transform.localScale = Vector2.one;
         transform.Find("Text").GetComponent<Text>().text = "我是第一个热更面板";

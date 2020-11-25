@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Model/Init.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Res/Scenes/LoginScene.unity
+    path: Assets/Res/Scenes/FirstScene.unity
     guid: bc79588f66b871645ad046f7c47e4e74
   m_configObjects: {}
