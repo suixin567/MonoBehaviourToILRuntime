@@ -8,6 +8,8 @@ MonoBehaviourToILRuntime是针对Unity3D项目的热更方案，代码简洁，�
 
 核心原理: 运行时将Unity的MonoBehaviour脚本自动替换为ILRtime的热更脚本。
 
+群号: 303560749
+
 **方案结构**
 
 双热更，既包括在Android平台方便好用的Mono热更，还有更适合在IOS平台使用的ILRuntime热更。
@@ -16,7 +18,7 @@ MonoBehaviourToILRuntime是针对Unity3D项目的热更方案，代码简洁，�
 
 Unity3D: 2019.4.15f1c1
 
-ILRuntime: 1.65
+ILRuntime: 1.64
 
 Ab包工具: XAsset: 4.0
 
