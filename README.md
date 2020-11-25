@@ -8,7 +8,7 @@ MonoBehaviourToILRuntime是针对Unity3D项目的热更方案，代码简洁，�
 
 核心原理: 运行时将Unity的MonoBehaviour脚本自动替换为ILRtime的热更脚本。
 
-**QQ群**: <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=9T-Q0OIO_yJw6vqAZf9_0-WhfGps8Z2q&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="MonoBehaviourToILRuntime" title="303560749"></a>
+QQ群: <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=9T-Q0OIO_yJw6vqAZf9_0-WhfGps8Z2q&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="303560749" title="303560749"></a>
 
 **方案结构**
 
