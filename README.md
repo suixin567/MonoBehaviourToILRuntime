@@ -21,14 +21,9 @@ VS: 2019
 
 **使用步骤**
 
-1、将你需要热更的脚本扔进本框架的Assets/Hotfix路径下
+1、启动Assets/Model/Init.unity场景
 
-2、对Awake()方法和
-
-3、进行资源打包（包含代码资源）
-
-你的游戏就可以热更了，就是这么简洁。
-
+2、启动后，参考Assets/Hotfix/Script/FirstScene.cs文件
 
 **关于本框架的其他插件**
 
