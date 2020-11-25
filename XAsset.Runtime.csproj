@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{2CD78C2E-ADBF-D0CE-B967-30437F7A18CA}</ProjectGuid>
+    <ProjectGuid>{0BAEF212-1240-CF1C-51CC-E09BDEC74FA5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>XAsset.Runtime</AssemblyName>
@@ -266,13 +266,13 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="ILRuntim.Mono.Cecil">
-      <HintPath>C:/Users/Windows/Desktop/ET_Mini/Library/PackageCache/com.ourpalm.ilruntime@1.6.4/Plugins/ILRuntim.Mono.Cecil.dll</HintPath>
+      <HintPath>C:/Users/Windows/Desktop/MonoBehaviourToILRuntime/Library/PackageCache/com.ourpalm.ilruntime@1.6.4/Plugins/ILRuntim.Mono.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="ILRuntime.Mono.Cecil.Mdb">
-      <HintPath>C:/Users/Windows/Desktop/ET_Mini/Library/PackageCache/com.ourpalm.ilruntime@1.6.4/Plugins/ILRuntime.Mono.Cecil.Mdb.dll</HintPath>
+      <HintPath>C:/Users/Windows/Desktop/MonoBehaviourToILRuntime/Library/PackageCache/com.ourpalm.ilruntime@1.6.4/Plugins/ILRuntime.Mono.Cecil.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="ILRuntime.Mono.Cecil.Pdb">
-      <HintPath>C:/Users/Windows/Desktop/ET_Mini/Library/PackageCache/com.ourpalm.ilruntime@1.6.4/Plugins/ILRuntime.Mono.Cecil.Pdb.dll</HintPath>
+      <HintPath>C:/Users/Windows/Desktop/MonoBehaviourToILRuntime/Library/PackageCache/com.ourpalm.ilruntime@1.6.4/Plugins/ILRuntime.Mono.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.15f1c1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -629,10 +629,10 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.15f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Windows/Desktop/ET_Mini/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Windows/Desktop/MonoBehaviourToILRuntime/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Windows/Desktop/ET_Mini/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Windows/Desktop/MonoBehaviourToILRuntime/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>

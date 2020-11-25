@@ -18,43 +18,23 @@ MonoBehaviour:
   scenesInBuild:
   - {fileID: 102900000, guid: 9fc0d4010bbf28b4594072e72b8655ab, type: 3}
   assets:
-  - path: Assets/Res/UI/hotfixPanel.prefab
-    bundle: 0282587b911ccc4b30094d33cca865f4.bundle
+  - path: Assets/Res/Code/Hotfix.dll.bytes
+    bundle: 
     patch: 0
-    groupBy: 3
-    group: 
-  - path: Assets/Res/UI/hotfix2Panel.prefab
-    bundle: 0282587b911ccc4b30094d33cca865f4.bundle
-    patch: 0
-    groupBy: 3
+    groupBy: 2
     group: 
   - path: Assets/Res/Code/Hotfix.pdb.bytes
-    bundle: 647fd131331f17390d20e9e0c3fb0c2f.bundle
+    bundle: 
     patch: 0
-    groupBy: 3
-    group: 
-  - path: Assets/Res/Code/Hotfix.dll.bytes
-    bundle: 647fd131331f17390d20e9e0c3fb0c2f.bundle
-    patch: 0
-    groupBy: 3
+    groupBy: 2
     group: 
   - path: Assets/Res/Scenes/LoginScene.unity
-    bundle: b1da4339b903c769f6923f995e119060.bundle
+    bundle: 
     patch: 0
-    groupBy: 3
+    groupBy: 2
     group: 
-  - path: Assets/Res/Images/r.png
-    bundle: b61c686eb15672fdd4674b51d8798a49.bundle
-    patch: 0
-    groupBy: 3
-    group: 
-  - path: Assets/Res/Images/0/sp.jpg
-    bundle: 19edfa08ada81205cbb29346354bde86.bundle
-    patch: 0
-    groupBy: 3
-    group: 
-  - path: Assets/Res/Images/0/sp2.jpg
-    bundle: 19edfa08ada81205cbb29346354bde86.bundle
+  - path: Assets/Res/UI/hotfixPanel.prefab
+    bundle: 
     patch: 0
     groupBy: 3
     group: 
